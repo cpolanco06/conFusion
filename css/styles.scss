@@ -80,11 +80,8 @@ body {
     background: $background-dark;
     color: floralwhite;
 
-    button {
+    .close {
         color: floralwhite;
-        &:hover {
-            color: floralwhite;
-        }
     }
 }
 
